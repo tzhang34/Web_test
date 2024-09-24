@@ -1,0 +1,10 @@
+---
+title: "Poster Symposium Activity"
+format: html
+---
+
+I was fortunate to be able to see the poster presentation from Philip Gibbs, a second year physics graduate student currently working in Dr.Ojeda's group. His poster is on the topic of "Exploring quantum spin liquid excitation in a kitaev material through photo excitation of carriers".
+
+In their previous work on the transport measurement of RuCl_3 low dimension material in 7-40 kelvin temperature region. He briefly went over their sample preparation process which includes mechanical exfoliation of RuCl_3 on SiO_2 substrate and electron beam lithography. One question comes to my mind is how is the transport properties measured on such a small flake. I have heard of the 4 point probe measurement in measuring the conductivity of recently popular room-temperature superconductor (LK-99). But it turns out Dr.Ojeda's group is using tri-axial line method which reduces the leakage of current during the measuring process.
+
+![This image is taken in Dr.Ojeda's lab, on Thursday 09/19/2024. Second year graduate student Richard Gibbs were going through his poster for Friday's symposium.](images/IMG_7069.jpg)
